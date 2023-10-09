@@ -38,7 +38,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
+  - block: portafolio
     id: Portafolio
     content:
       title: Projects
