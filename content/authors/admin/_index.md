@@ -6,7 +6,8 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Ciencia de las mediciones
   - Analista de datos
-  - Agricultura y Redacción.
+  - Agricultura
+  - Redacción
 social:
   - icon: envelope
     icon_pack: fas
