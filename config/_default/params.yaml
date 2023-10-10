@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: Rose
-  theme_night: Rose
+  theme_day: Forest
+  theme_night: Forest
   font: Classic
-  font_size: L
+  font_size: XL
 
 # SEO
 
