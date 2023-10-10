@@ -11,6 +11,12 @@ sections:
       title: Biografía
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+  background:
+    # Choose a color such as from https://html-color-codes.info
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+    text_color_light: true
   - block: collection
     id: posts
     content:
