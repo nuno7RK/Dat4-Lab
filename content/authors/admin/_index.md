@@ -1,19 +1,19 @@
 ---
-title: Alice Wu 吳恩達
-role: Professor of Artificial Intelligence
+title: Bruno Junior Pellizzoni Garcia
+role: Coordiandor de laboratorio
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ciencia de las mediciones
+  - Analista de datos
+  - Agricultura y Redacción.
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: nuno.pgarcia@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nuno7RK
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/bruno-pellizzoni-95459937/
@@ -21,8 +21,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidad Central de Venezuela
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,6 +42,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
