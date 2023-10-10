@@ -1,6 +1,6 @@
 ---
 title: Bruno Junior Pellizzoni Garcia
-role: Coordiandor de laboratorio
+role: Coordinador de laboratorio
 avatar_filename: bruno.jpg
 bio: Desde pequeño tuve mucho contacto con la naturaleza y por eso estudié
   agronomía. Estoy casado y soy padre de dos niños, me encanta pasar tiempo de
