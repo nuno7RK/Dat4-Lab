@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: ABC Lab
       filters:
         folders:
           - publication
