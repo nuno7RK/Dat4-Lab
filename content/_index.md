@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-10-23
 type: landing
 
 sections:
@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Dat4 Lab
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
