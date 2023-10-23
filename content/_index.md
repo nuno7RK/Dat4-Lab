@@ -18,7 +18,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -48,7 +48,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: compact
   - block: contact
     id: contact
     content:
