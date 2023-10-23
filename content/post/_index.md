@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Dat4 Lab
 cms_exclude: true
 
 # View.
