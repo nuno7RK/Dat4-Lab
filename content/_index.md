@@ -5,6 +5,14 @@ date: 2023-10-23
 type: landing
 
 sections:
+  - block: Imagen
+    id: frontal
+    desing:
+      background:
+        # Choose a color such as from https://html-color-codes.info
+        color: 'navy'
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
   - block: collection
     id: posts
     content:
