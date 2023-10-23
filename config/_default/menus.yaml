@@ -7,13 +7,13 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Dat4 Lab
     url: '#posts'
     weight: 20
-  - name: Publications
+  - name: ABC Lab
     url: '#featured'
     weight: 50
-  - name: Contact
+  - name: Contacto
     url: '#contact'
     weight: 60
 
