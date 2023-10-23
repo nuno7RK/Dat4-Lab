@@ -2,10 +2,7 @@
 title: Bruno Junior Pellizzoni Garcia
 role: Coordinador de laboratorio
 avatar_filename: avatar.jpg
-bio: Desde pequeño tuve mucho contacto con la naturaleza y por eso estudié
-  agronomía. Estoy casado y soy padre de dos niños, me encanta pasar tiempo de
-  calidad con ellos sobre todo en el jardín. En los tiempos libres hago
-  jardinería y refacciones en la casa.
+bio: ""
 interests:
   - Ciencia de las mediciones
   - Analista de datos
@@ -28,16 +25,7 @@ organizations:
   - name: Universidad Central de Venezuela
     url: ""
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 superuser: true
 status:
   icon: ☕️
@@ -46,5 +34,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Desde pequeño tuve mucho contacto con la naturaleza y por eso estudié agronomía. Estoy casado y soy padre de dos niños, me encanta pasar tiempo de calidad con ellos sobre todo en el jardín. En los tiempos libres hago jardinería y refacciones en la casa.
 {style="text-align: justify;"}
