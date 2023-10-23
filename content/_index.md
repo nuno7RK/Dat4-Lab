@@ -4,6 +4,8 @@ title:
 date: 2023-10-23
 type: landing
 
+image: icon.png
+
 sections:
   - block: about.biography
     id: about
